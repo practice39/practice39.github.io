@@ -1,0 +1,16 @@
+﻿:root {
+    --black: #2b2a2c;
+	--gray: #6a696b;
+	--gray-light: #dedede;
+	--whight: #ffffff;
+
+}
+
+body {
+     margin: 0;
+	 font-family: 
+}
+.bold {
+    font-weight: bold;
+	color: var(--gray);
+}
