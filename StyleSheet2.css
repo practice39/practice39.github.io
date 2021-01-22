@@ -407,7 +407,6 @@ p {
 }
 
 .footer_copyright {
-    margin-left: 43rem;
 	font-size: 0.9rem;
 	color: #79797a;
 
@@ -427,7 +426,6 @@ p {
 }
 
 .footer_nav {
-    margin-right: 43rem;
     display: flex;
 	align-items: center;
 }
@@ -572,5 +570,7 @@ p {
 		padding: 0;
 		height: 100%;
 	}
+
+
 }
 
